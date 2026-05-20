@@ -115,3 +115,6 @@ Em muitos casos, elimina a necessidade de utilizar JavaScript diretamente.
 - https://www.reddit.com/r/dotnet/comments/v5ybbd/the_best_c_net_web_application_tech_stack/?tl=pt-br
 - https://www.devmedia.com.br/crie-uma-aplicacao-completa-passo-a-passo-com-csharp-visual-studio-e-asp-net-revista-easy-net-16-parte-7/22562
 - https://dotnet.microsoft.com/pt-br/apps/ai
+# Link do NotebookLM
+
+- https://notebooklm.google.com/notebook/be1cc981-800f-4310-ac9e-b4d935e39be7
